@@ -1,0 +1,21 @@
+{
+  "name": "cyberpunk-scroll-flythrough",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.156.1",
+    "@react-three/fiber": "^8.15.5",
+    "@react-three/drei": "^9.85.7",
+    "@react-three/postprocessing": "^2.8.5"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4"
+  }
+}
